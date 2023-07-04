@@ -1,0 +1,25 @@
+body{
+    align-items: center;
+    justify-content: center;
+}
+.button{
+    background-color: gray;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 70px;
+    margin: 2px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+th{
+    background-color: #ffec40;
+    border: 1px solid;
+}
+table,td,tr{
+    border: 1px solid;
+    background-color: #fffbc1;
+}
+table{
+    width: 90%;
+    margin: auto;
+}
